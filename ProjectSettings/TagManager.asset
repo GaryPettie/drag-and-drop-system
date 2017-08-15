@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MinionCard
+  - ManaCard
+  - BuffCard
+  - AttackCard
+  - SpellCard
+  - HandArea
+  - MinionArea
+  - ManaArea
+  - DiscardArea
   layers:
   - Default
   - TransparentFX
